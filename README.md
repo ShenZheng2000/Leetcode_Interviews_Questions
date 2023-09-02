@@ -24,7 +24,7 @@
 - 160: Intersection of Two Linked Lists
 - 200: Number of Islands
 - 206: Reverse Linked List
-- 213. House Robber II
+- 213: House Robber II
 - 215: Kth Largest Element in an Array
 - 232: Implement Queue using Stacks
 - 279: Perfect Squares
@@ -33,8 +33,8 @@
 - 322: Coin Change
 - 422: Valid Word Square
 - 458: Poor Pigs
-- 547. Number of Provinces
-- 647. Palindromic Substrings
+- 547: Number of Provinces
+- 647: Palindromic Substrings
 - 887: Super Egg Drop
 - 1091: Shortest Path in Binary Matrix
 - 1155: Number of Dice Rolls With Target Sum
