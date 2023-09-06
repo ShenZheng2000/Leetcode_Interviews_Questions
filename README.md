@@ -5,6 +5,7 @@
 | 11   | Container With Most Water                           | [Link](https://leetcode.com/problems/container-with-most-water/) |
 | 15   | 3Sum                                                 | [Link](https://leetcode.com/problems/3sum/) |
 | 17   | Letter Combinations of a Phone Number               | [Link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
+| 19   | Remove Nth Node From End of List                    | [Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 23   | Merge k Sorted Lists                                | [Link](https://leetcode.com/problems/merge-k-sorted-lists/) |
 | 30   | Substring with Concatenation of All Words           | [Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) |
 | 33   | Search in Rotated Sorted Array                      | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
@@ -26,7 +27,8 @@
 | 213  | House Robber II                                     | [Link](https://leetcode.com/problems/house-robber-ii/) |
 | 215  | Kth Largest Element in an Array                    | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | 232  | Implement Queue using Stacks                       | [Link](https://leetcode.com/problems/implement-queue-using-stacks/) |
-| 279  | Perfect Squares                                     | [Link](https://leetcode.com/problems/perfect-squares/) |
+| 260  | Single Number III                                  | [Link](https://leetcode.com/problems/single-number-iii/) |
+| 268  | Missing Number                                      | [Link](https://leetcode.com/problems/missing-number/) |
 | 300  | Longest Increasing Subsequence                      | [Link](https://leetcode.com/problems/longest-increasing-subsequence/) |
 | 319  | Bulb Switcher                                       | [Link](https://leetcode.com/problems/bulb-switcher/) |
 | 322  | Coin Change                                         | [Link](https://leetcode.com/problems/coin-change/) |
@@ -35,5 +37,5 @@
 | 647  | Palindromic Substrings                              | [Link](https://leetcode.com/problems/palindromic-substrings/) |
 | 887  | Super Egg Drop                                      | [Link](https://leetcode.com/problems/super-egg-drop/) |
 | 1091 | Shortest Path in Binary Matrix                      | [Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/) |
+| 1143 | Longest Common Subsequence                          | [Link](https://leetcode.com/problems/longest-common-subsequence/) |
 | 1155 | Number of Dice Rolls With Target Sum                | [Link](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) |
-
